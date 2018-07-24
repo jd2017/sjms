@@ -1,4 +1,11 @@
-Git is a distributed version control system.
-Git is free software distributed under the GPL ll;;.
-Git has a mutable index called stage.
+设计模式学习--参考https://blog.csdn.net/lovelion/article/details/7819266
+设计模式分为：
+  创建型：
+     工厂方法，抽象工厂，建造者模式，单态，原型
+  结构型
+     适配器，桥接，组合，装饰，外观，享元，代理
+  行为型
+     责任链，命令，解释器，迭代器，中介者，备忘录，观察者，状态，策略，模板，访问者
 
+
+要掌握：策略、工厂方法、抽象工厂、建造者、单态、原型、适配器、桥接、装饰、外观、观察者、模板
