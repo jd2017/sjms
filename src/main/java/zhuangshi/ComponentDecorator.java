@@ -10,6 +10,7 @@ public class ComponentDecorator implements Component{
 
     @Override
     public void display() {
+        System.out.println("被装饰的构件为："+component);
         component.display();
     }
 }
